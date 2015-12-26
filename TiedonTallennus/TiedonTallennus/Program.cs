@@ -24,6 +24,7 @@ namespace TiedonTallennus
             Console.WriteLine("Uusi lämpötila tallennettu.");
 
             Console.ReadLine();
+
         }
     }
 }
