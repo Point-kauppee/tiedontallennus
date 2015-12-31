@@ -25,7 +25,6 @@ namespace TiedonTallennus
                 Console.WriteLine("Tervetuloa");
             }
             
-
             int lämpötila = 0;
             Console.Write("Anna uusi lämpötila: ");
             string syöte = Console.ReadLine();
